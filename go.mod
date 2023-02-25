@@ -6,7 +6,6 @@ require (
 	github.com/coreos/go-semver v0.2.0
 	github.com/coreos/go-systemd v0.0.0-20180511133405-39ca1b05acc7 // indirect
 	github.com/coreos/go-systemd/v22 v22.0.0
-	github.com/coreos/license-bill-of-materials v0.0.0-20190913234955-13baff47494e // indirect
 	github.com/coreos/pkg v0.0.0-20160727233714-3ac0863d7acf
 	github.com/creack/pty v1.1.7
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
@@ -44,7 +43,7 @@ require (
 	go.uber.org/zap v1.10.0
 	golang.org/x/crypto v0.0.0-20191002192127-34f69633bfdc
 	golang.org/x/net v0.0.0-20190813141303-74dc4d7220e7
-	golang.org/x/sys v0.0.0-20190826190057-c7b8b68b1456 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2
 	google.golang.org/grpc v1.24.0
 	gopkg.in/cheggaaa/pb.v1 v1.0.25
